@@ -1,2 +1,2 @@
 this is created on loacl machine
-and made by anmol aryan
+and made by Anmol Aryan.
